@@ -1,41 +1,17 @@
-# Learn-JavaScript-Step-By-Step
-Learn-JavaScript-Step-by-Step/
-│
-├── 01-basics/
-│   ├── variables.js
-│   ├── data-types.js
-│   ├── operators.js
-│   ├── conditionals.js
-│   ├── loops.js
-│
-├── 02-functions/
-│   ├── functions.js
-│   ├── arrow-functions.js
-│   ├── callbacks.js
-│
-├── 03-arrays-and-objects/
-│   ├── arrays.js
-│   ├── objects.js
-│   ├── array-methods.js
-│
-├── 04-dom-and-events/
-│   ├── index.html
-│   ├── dom.js
-│   ├── events.js
-│
-├── 05-async-javascript/
-│   ├── promises.js
-│   ├── async-await.js
-│   ├── fetch-api.js
-│
-├── 06-mini-projects/
-│   ├── counter-app/
-│   │   ├── index.html
-│   │   ├── style.css
-│   │   └── script.js
-│   ├── todo-list/
-│   │   ├── index.html
-│   │   ├── style.css
-│   │   └── script.js
-│
-└── README.md
+# Learn JavaScript Step-by-Step
+
+A beginner-friendly, hands-on guide to learning JavaScript — with topics, examples, and mini projects.
+
+## 🧩 Topics
+1. Basics
+2. Functions
+3. Arrays & Objects
+4. DOM Manipulation
+5. Async JavaScript
+6. Mini Projects
+
+## 🚀 How to Run
+Use Node.js to run any `.js` file:
+```bash
+node 01-basics/variables.js
+
