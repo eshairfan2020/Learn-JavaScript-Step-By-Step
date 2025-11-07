@@ -1,0 +1,8 @@
+function processUserInput(callback) {
+  const name = "Charlie";
+  callback(name);
+}
+
+processUserInput(function(name) {
+  console.log("Hello, " + name);
+});
