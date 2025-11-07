@@ -1,0 +1,12 @@
+// Data types in JS
+const string = "Hello";
+const number = 42;
+const boolean = true;
+const array = [1, 2, 3];
+const object = { name: "John", age: 30 };
+const undefinedValue = undefined;
+const nullValue = null;
+
+console.log(typeof string, typeof number, typeof boolean);
+console.log(Array.isArray(array)); // true
+console.log(object);
