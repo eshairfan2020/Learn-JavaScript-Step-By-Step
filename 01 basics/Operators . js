@@ -1,0 +1,10 @@
+// Operators
+let x = 10, y = 3;
+
+console.log("Addition:", x + y);
+console.log("Subtraction:", x - y);
+console.log("Multiplication:", x * y);
+console.log("Division:", x / y);
+console.log("Modulus:", x % y);
+console.log("Comparison:", x > y);
+console.log("Logical AND:", x > 5 && y < 5);
