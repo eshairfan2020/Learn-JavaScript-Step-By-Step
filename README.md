@@ -1,17 +1,18 @@
 # Learn JavaScript Step-by-Step
 
-A beginner-friendly, hands-on guide to learning JavaScript — with topics, examples, and mini projects.
+A complete, beginner-friendly guide to learning **JavaScript** with hands-on examples and mini-projects.
 
-## 🧩 Topics
-1. Basics
-2. Functions
-3. Arrays & Objects
-4. DOM Manipulation
-5. Async JavaScript
+## 📚 Topics Covered
+1. Basics (variables, loops, conditionals)
+2. Functions and Scope
+3. Arrays and Objects
+4. DOM Manipulation and Events
+5. Async JavaScript (Promises, Fetch, Async/Await)
 6. Mini Projects
 
-## 🚀 How to Run
-Use Node.js to run any `.js` file:
+## 🧑‍💻 How to Use
+Clone the repository:
 ```bash
-node 01-basics/variables.js
+git clone https://github.com/yourusername/Learn-JavaScript-Step-by-Step.git
+
 
